@@ -1,0 +1,449 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\BotilleriaDB.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BotilleriaDB.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\css\\animate.css",
+      "PackagePath": "staticwebassets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\css\\hamburgers.min.css",
+      "PackagePath": "staticwebassets\\css\\hamburgers.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\css\\util.css",
+      "PackagePath": "staticwebassets\\css\\util.css"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\imagen\\22863954-a67e-4759-9ffd-97108bb9100cboti3.jpg",
+      "PackagePath": "staticwebassets\\imagen\\22863954-a67e-4759-9ffd-97108bb9100cboti3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\imagen\\2823b393-4f69-4ebd-afa9-97ae7108aac7auto.jpeg",
+      "PackagePath": "staticwebassets\\imagen\\2823b393-4f69-4ebd-afa9-97ae7108aac7auto.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\imagen\\31579acb-3c94-4cc6-ab7d-115044614513boti2.jpg",
+      "PackagePath": "staticwebassets\\imagen\\31579acb-3c94-4cc6-ab7d-115044614513boti2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\imagen\\356fb022-557f-453f-81a6-507312bd89c6boti2.jpg",
+      "PackagePath": "staticwebassets\\imagen\\356fb022-557f-453f-81a6-507312bd89c6boti2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\imagen\\3895a2aa-4e6e-41ed-aab4-ef764173d299boti2.jpg",
+      "PackagePath": "staticwebassets\\imagen\\3895a2aa-4e6e-41ed-aab4-ef764173d299boti2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\imagen\\4845ba23-01c8-4ab2-aa04-d1812626eac9boti2.jpg",
+      "PackagePath": "staticwebassets\\imagen\\4845ba23-01c8-4ab2-aa04-d1812626eac9boti2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\imagen\\4c063aea-935f-4280-a9ee-8dbecff70225boti2.jpg",
+      "PackagePath": "staticwebassets\\imagen\\4c063aea-935f-4280-a9ee-8dbecff70225boti2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\imagen\\582ae488-e9da-4fde-b03b-7466275f45e3boti2.jpg",
+      "PackagePath": "staticwebassets\\imagen\\582ae488-e9da-4fde-b03b-7466275f45e3boti2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\imagen\\5a3b810c-3210-48f1-8099-1193c66d46a8boti3.jpg",
+      "PackagePath": "staticwebassets\\imagen\\5a3b810c-3210-48f1-8099-1193c66d46a8boti3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\imagen\\64ea87a0-c83f-439e-8fcd-891042bcd79eboti2.jpg",
+      "PackagePath": "staticwebassets\\imagen\\64ea87a0-c83f-439e-8fcd-891042bcd79eboti2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\imagen\\6795c148-3800-4a77-b374-83511eabebedboti2.jpg",
+      "PackagePath": "staticwebassets\\imagen\\6795c148-3800-4a77-b374-83511eabebedboti2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\imagen\\6d8a42a0-42c2-439e-b963-7651bf5ed79cboti3.jpg",
+      "PackagePath": "staticwebassets\\imagen\\6d8a42a0-42c2-439e-b963-7651bf5ed79cboti3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\imagen\\6f279f2e-13f2-45f4-ab8a-aa1bdabbbb1cboti2.jpg",
+      "PackagePath": "staticwebassets\\imagen\\6f279f2e-13f2-45f4-ab8a-aa1bdabbbb1cboti2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\imagen\\7d759182-5aba-468f-94d8-a94502588029boti2.jpg",
+      "PackagePath": "staticwebassets\\imagen\\7d759182-5aba-468f-94d8-a94502588029boti2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\imagen\\8227d131-d25e-4482-97cd-6d0e3e02b1abboti3.jpg",
+      "PackagePath": "staticwebassets\\imagen\\8227d131-d25e-4482-97cd-6d0e3e02b1abboti3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\imagen\\86354c00-5574-4fd1-b884-d32d9c0992a9auto.jpeg",
+      "PackagePath": "staticwebassets\\imagen\\86354c00-5574-4fd1-b884-d32d9c0992a9auto.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\imagen\\8aabd5b2-9c09-4710-ac42-f6f545447163boti3.jpg",
+      "PackagePath": "staticwebassets\\imagen\\8aabd5b2-9c09-4710-ac42-f6f545447163boti3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\imagen\\8e14fd2b-cbcc-4823-a53e-f120b67440b9boti1.jpeg",
+      "PackagePath": "staticwebassets\\imagen\\8e14fd2b-cbcc-4823-a53e-f120b67440b9boti1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\imagen\\901c01b0-367b-464a-8189-00fdb2a06400boti2.jpg",
+      "PackagePath": "staticwebassets\\imagen\\901c01b0-367b-464a-8189-00fdb2a06400boti2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\imagen\\ad058ab0-89b5-462f-9f31-37f1bdb11e33boti2.jpg",
+      "PackagePath": "staticwebassets\\imagen\\ad058ab0-89b5-462f-9f31-37f1bdb11e33boti2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\imagen\\boti3.jpg",
+      "PackagePath": "staticwebassets\\imagen\\boti3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\imagen\\c9773bd8-8f86-459d-a9da-d4aae80532fdboti2.jpg",
+      "PackagePath": "staticwebassets\\imagen\\c9773bd8-8f86-459d-a9da-d4aae80532fdboti2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\imagen\\cb7c55f5-da44-44d9-95b5-0913c491b5ffboti2.jpg",
+      "PackagePath": "staticwebassets\\imagen\\cb7c55f5-da44-44d9-95b5-0913c491b5ffboti2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\imagen\\d2be7566-2db0-4a9a-bb3a-f1ca0ec948f4boti2.jpg",
+      "PackagePath": "staticwebassets\\imagen\\d2be7566-2db0-4a9a-bb3a-f1ca0ec948f4boti2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\imagen\\d8bab543-c74a-445b-af84-ebb7700898c2boti2.jpg",
+      "PackagePath": "staticwebassets\\imagen\\d8bab543-c74a-445b-af84-ebb7700898c2boti2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\imagen\\df3b8e61-8e89-4c50-9556-4cf0e91e0d9aboti2.jpg",
+      "PackagePath": "staticwebassets\\imagen\\df3b8e61-8e89-4c50-9556-4cf0e91e0d9aboti2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\imagen\\ebe7c797-70ed-473d-bde5-d15eeacc04baboti3.jpg",
+      "PackagePath": "staticwebassets\\imagen\\ebe7c797-70ed-473d-bde5-d15eeacc04baboti3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\imagen\\ef4c48eb-29d5-4b07-8675-04a4ecf79198boti3.jpg",
+      "PackagePath": "staticwebassets\\imagen\\ef4c48eb-29d5-4b07-8675-04a4ecf79198boti3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\imagen\\f1556c80-d3d7-4efd-88fc-f21219edf97cboti2.jpg",
+      "PackagePath": "staticwebassets\\imagen\\f1556c80-d3d7-4efd-88fc-f21219edf97cboti2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\imagen\\f3a2210c-5deb-4caf-a69c-609b31ccd03dboti2.jpg",
+      "PackagePath": "staticwebassets\\imagen\\f3a2210c-5deb-4caf-a69c-609b31ccd03dboti2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\imagen\\f8854af3-e9e7-49b9-aca2-ecde03dd42bfboti2.jpg",
+      "PackagePath": "staticwebassets\\imagen\\f8854af3-e9e7-49b9-aca2-ecde03dd42bfboti2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\img\\auto.jpeg",
+      "PackagePath": "staticwebassets\\img\\auto.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\js\\js.js.js",
+      "PackagePath": "staticwebassets\\js\\js.js.js"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\js\\main.js.descarga",
+      "PackagePath": "staticwebassets\\js\\main.js.descarga"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\js\\popper.js",
+      "PackagePath": "staticwebassets\\js\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\js\\popper.js.descarga",
+      "PackagePath": "staticwebassets\\js\\popper.js.descarga"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\js\\s.js",
+      "PackagePath": "staticwebassets\\js\\s.js"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\js\\s.js.descarga",
+      "PackagePath": "staticwebassets\\js\\s.js.descarga"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\js\\tilt.jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\tilt.jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\js\\tilt.jquery.min.js.descarga",
+      "PackagePath": "staticwebassets\\js\\tilt.jquery.min.js.descarga"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Andres\\Desktop\\4 semestre\\Construccion de software\\BotilleriaDB\\BotilleriaDB\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.BotilleriaDB.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.BotilleriaDB.props",
+      "PackagePath": "build\\BotilleriaDB.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.BotilleriaDB.props",
+      "PackagePath": "buildMultiTargeting\\BotilleriaDB.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.BotilleriaDB.props",
+      "PackagePath": "buildTransitive\\BotilleriaDB.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

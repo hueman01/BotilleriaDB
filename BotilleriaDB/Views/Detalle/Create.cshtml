@@ -1,0 +1,43 @@
+﻿@model BotilleriaDB.Models.DetalleVentum
+@{
+    ViewData["Title"] = "Crear Detalle";
+}
+<h1 class="text-center">Crear Detalle</h1>
+
+<div>
+    <form asp-action="Create" enctype="multipart/form-data">
+        <div>
+            <label>Nombre Producto</label>
+
+            <select class="form-select" asp-for="VentaId" asp-items="ViewBag.VentaId">
+                <option selected disabled>Seleccione Categoría</option>
+            </select>
+            <span class="badge bg-danger" asp-validation-for="VentaId"></span>
+        </div>
+        <div>
+            <label class="form-label">Cantidad</label>
+
+            <input class="form-control" asp-for="Cantidad" />
+            <span class="badge bg-danger" asp-validation-for="Cantidad"></span>
+        </div>
+        <div>
+            <label class="form-label">Precio Unitario</label>
+
+            <input class="form-control" asp-for="PrecioUnitario" />
+            <span class="badge bg-danger" asp-validation-for="PrecioUnitario"></span>
+        </div>
+        <div>
+            <label class="form-label">Total Detalle</label>
+
+            <input class="form-control" asp-for="TotalDetalle" />
+            <span class="badge bg-danger" asp-validation-for="TotalDetalle"></span>
+        </div>
+        <div class="text-end mt-3">
+            <input type="reset" class="btn btn-light" value="Limpiar" />
+            <input type="submit" class="btn btn-danger" value="Guardar" />
+        </div>
+    </form>
+
+
+
+</div>

@@ -1,0 +1,56 @@
+﻿@model BotilleriaDB.Models.DetalleVentum
+
+@{
+    ViewData["Title"] = "Editar Cliente";
+}
+<h1 class="text-center">Editar Detalle</h1>
+<div>
+    @*asp-action permite acceder a un método del controlador*@
+    <form asp-action="Edit">
+        <input type="hidden" asp-for="VentaId" />
+        <div>
+            <label class="form-label">Venta ID</label>
+            @*asp-for es un helper que permite asignar el mismo nombre y id de la clase
+            a los input*@
+            <input type="text" class="form-control" asp-for="VentaId" />
+            @*validation-for permite validar algunos parametros*@
+            <span asp-validation-for="VentaId" class="badge bg-danger"></span>
+        </div>
+        <div>
+            <label class="form-label">Producto ID</label>
+            @*asp-for es un helper que permite asignar el mismo nombre y id de la clase
+            a los input*@
+            <input type="text" class="form-control" asp-for="ProductoId" />
+            @*validation-for permite validar algunos parametros*@
+            <span asp-validation-for="ProductoId" class="badge bg-danger"></span>
+        </div>
+        <div>
+            <label class="form-label">Cantidad</label>
+            @*asp-for es un helper que permite asignar el mismo nombre y id de la clase
+            a los input*@
+            <input type="text" class="form-control" asp-for="Cantidad" />
+            @*validation-for permite validar algunos parametros*@
+            <span asp-validation-for="Cantidad" class="badge bg-danger"></span>
+        </div>
+        <div>
+            <label class="form-label">precio unitario</label>
+            @*asp-for es un helper que permite asignar el mismo nombre y id de la clase
+            a los input*@
+            <input type="text" class="form-control" asp-for="PrecioUnitario" />
+            @*validation-for permite validar algunos parametros*@
+            <span asp-validation-for="PrecioUnitario" class="badge bg-danger"></span>
+        </div>
+        <div>
+            <label class="form-label">total detalle</label>
+            @*asp-for es un helper que permite asignar el mismo nombre y id de la clase
+            a los input*@
+            <input type="text" class="form-control" asp-for="TotalDetalle" />
+            @*validation-for permite validar algunos parametros*@
+            <span asp-validation-for="TotalDetalle" class="badge bg-danger"></span>
+        </div>
+        <div class="text-end mt-3">
+            <a class="btn btn-secondary" asp-action="Index" asp-controller="Cliente">Volver</a>
+            <input type="submit" class="btn btn-primary" value="Guardar" />
+        </div>
+    </form>
+</div>

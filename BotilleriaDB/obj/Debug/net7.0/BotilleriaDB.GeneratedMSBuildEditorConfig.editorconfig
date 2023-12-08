@@ -1,0 +1,121 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = BotilleriaDB
+build_property.RootNamespace = BotilleriaDB
+build_property.ProjectDir = C:\Users\Andres\Desktop\4 semestre\Construccion de software\BotilleriaDB\BotilleriaDB\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Andres\Desktop\4 semestre\Construccion de software\BotilleriaDB\BotilleriaDB
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Andres/Desktop/4 semestre/Construccion de software/BotilleriaDB/BotilleriaDB/Views/Categoria/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Andres/Desktop/4 semestre/Construccion de software/BotilleriaDB/BotilleriaDB/Views/Categoria/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Andres/Desktop/4 semestre/Construccion de software/BotilleriaDB/BotilleriaDB/Views/Categoria/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Andres/Desktop/4 semestre/Construccion de software/BotilleriaDB/BotilleriaDB/Views/Cliente/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Andres/Desktop/4 semestre/Construccion de software/BotilleriaDB/BotilleriaDB/Views/Cliente/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Andres/Desktop/4 semestre/Construccion de software/BotilleriaDB/BotilleriaDB/Views/Cliente/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Andres/Desktop/4 semestre/Construccion de software/BotilleriaDB/BotilleriaDB/Views/Detalle/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV0YWxsZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Andres/Desktop/4 semestre/Construccion de software/BotilleriaDB/BotilleriaDB/Views/Detalle/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV0YWxsZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Andres/Desktop/4 semestre/Construccion de software/BotilleriaDB/BotilleriaDB/Views/Detalle/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV0YWxsZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Andres/Desktop/4 semestre/Construccion de software/BotilleriaDB/BotilleriaDB/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Andres/Desktop/4 semestre/Construccion de software/BotilleriaDB/BotilleriaDB/Views/Home/login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxsb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Andres/Desktop/4 semestre/Construccion de software/BotilleriaDB/BotilleriaDB/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Andres/Desktop/4 semestre/Construccion de software/BotilleriaDB/BotilleriaDB/Views/Producto/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Andres/Desktop/4 semestre/Construccion de software/BotilleriaDB/BotilleriaDB/Views/Producto/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Andres/Desktop/4 semestre/Construccion de software/BotilleriaDB/BotilleriaDB/Views/Producto/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Andres/Desktop/4 semestre/Construccion de software/BotilleriaDB/BotilleriaDB/Views/Proveedore/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvdmVlZG9yZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Andres/Desktop/4 semestre/Construccion de software/BotilleriaDB/BotilleriaDB/Views/Proveedore/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvdmVlZG9yZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Andres/Desktop/4 semestre/Construccion de software/BotilleriaDB/BotilleriaDB/Views/Proveedore/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvdmVlZG9yZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Andres/Desktop/4 semestre/Construccion de software/BotilleriaDB/BotilleriaDB/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Andres/Desktop/4 semestre/Construccion de software/BotilleriaDB/BotilleriaDB/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Andres/Desktop/4 semestre/Construccion de software/BotilleriaDB/BotilleriaDB/Views/Venta/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVudGFcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Andres/Desktop/4 semestre/Construccion de software/BotilleriaDB/BotilleriaDB/Views/Venta/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVudGFcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Andres/Desktop/4 semestre/Construccion de software/BotilleriaDB/BotilleriaDB/Views/Venta/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVudGFcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Andres/Desktop/4 semestre/Construccion de software/BotilleriaDB/BotilleriaDB/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Andres/Desktop/4 semestre/Construccion de software/BotilleriaDB/BotilleriaDB/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Andres/Desktop/4 semestre/Construccion de software/BotilleriaDB/BotilleriaDB/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-snhfynz5nc

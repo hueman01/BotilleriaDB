@@ -1,0 +1,33 @@
+﻿@model BotilleriaDB.Models.Venta
+@{
+    ViewData["Title"] = "Crear Venta";
+}
+<h1 class="text-center">Crear Venta</h1>
+
+<div>
+    <form asp-action="Create" enctype="multipart/form-data">
+        <div>
+            <label class="form-label">Fecha Venta</label>
+
+            <input type="date" class="form-control" asp-for="FechaVenta" />
+            <span class="badge bg-danger" asp-validation-for="FechaVenta"></span>
+        </div>
+
+        <div>
+            <label class="form-label">Cliente</label>
+
+            <input class="form-control" asp-for="NombreCliente" />
+            <span class="badge bg-danger" asp-validation-for="NombreCliente"></span>
+        </div>
+        <div>
+            <label class="form-label">Total Venta</label>
+
+            <input class="form-control" asp-for="TotalVenta" />
+            <span class="badge bg-danger" asp-validation-for="TotalVenta"></span>
+        </div>
+        <div class="text-end mt-3">
+            <input type="reset" class="btn btn-light" value="Limpiar" />
+            <input type="submit" class="btn btn-danger" value="Guardar" />
+        </div>
+    </form>
+</div>

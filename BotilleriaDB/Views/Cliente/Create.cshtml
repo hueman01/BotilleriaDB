@@ -1,0 +1,36 @@
+﻿@model BotilleriaDB.Models.Cliente
+@{
+    ViewData["Title"] = "Crear Cliente";
+}
+<h1 class="text-center">Crear Cliente</h1>
+
+<div>
+    <form asp-action="Create" enctype="multipart/form-data">
+        <div>
+            <label class="form-label">Nombre Cliente</label>
+
+            <input class="form-control" asp-for="NombreCliente" />
+            <span class="badge bg-danger" asp-validation-for="NombreCliente"></span>
+        </div>
+
+        <div>
+            <label class="form-label">Direccion</label>
+
+            <input class="form-control" asp-for="Direccion" />
+            <span class="badge bg-danger" asp-validation-for="Direccion"></span>
+        </div>
+        <div>
+            <label class="form-label">Telefono</label>
+
+            <input class="form-control" asp-for="Telefono" />
+            <span class="badge bg-danger" asp-validation-for="Telefono"></span>
+        </div>
+        <div class="text-end mt-3">
+            <input type="reset" class="btn btn-light" value="Limpiar" />
+            <input type="submit" class="btn btn-danger" value="Guardar" />
+        </div>
+    </form>
+
+
+
+</div>

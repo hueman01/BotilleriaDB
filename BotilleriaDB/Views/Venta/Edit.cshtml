@@ -1,0 +1,39 @@
+﻿@model BotilleriaDB.Models.Venta
+@{
+    ViewData["Title"] = "Editar Cliente";
+}
+<h1 class="text-center">Editar Cliente</h1>
+<div>
+    @*asp-action permite acceder a un método del controlador*@
+    <form asp-action="Edit">
+        <input type="hidden" asp-for="VentaId" />
+        <div>
+            <label class="form-label">Fecha</label>
+            @*asp-for es un helper que permite asignar el mismo nombre y id de la clase
+            a los input*@
+            <input type="date" class="form-control" asp-for="FechaVenta" />
+            @*validation-for permite validar algunos parametros*@
+            <span asp-validation-for="FechaVenta" class="badge bg-danger"></span>
+        </div>
+        <div>
+            <label class="form-label">Nombre Cliente</label>
+            @*asp-for es un helper que permite asignar el mismo nombre y id de la clase
+            a los input*@
+            <input type="text" class="form-control" asp-for="NombreCliente" />
+            @*validation-for permite validar algunos parametros*@
+            <span asp-validation-for="NombreCliente" class="badge bg-danger"></span>
+        </div>
+        <div>
+            <label class="form-label">Total Venta</label>
+            @*asp-for es un helper que permite asignar el mismo nombre y id de la clase
+            a los input*@
+            <input type="text" class="form-control" asp-for="TotalVenta" />
+            @*validation-for permite validar algunos parametros*@
+            <span asp-validation-for="TotalVenta" class="badge bg-danger"></span>
+        </div>
+        <div class="text-end mt-3">
+            <a class="btn btn-secondary" asp-action="Index" asp-controller="Cliente">Volver</a>
+            <input type="submit" class="btn btn-primary" value="Guardar" />
+        </div>
+    </form>
+</div>

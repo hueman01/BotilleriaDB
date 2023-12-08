@@ -1,0 +1,124 @@
+﻿@using BotilleriaDB.Helper;
+@model PaginatedList<BotilleriaDB.Models.DetalleVentum>
+
+@{
+    ViewData["Title"] = "Lista Detalle Venta";
+}
+<div class="alert alert-primary">
+    <h1 class="text-center"> Lista detalle venta</h1>
+</div>
+<div class="text-end mt-3 mb-1">
+    <form method="get" asp-action="Index">
+        <input type="text" name="buscar" value="@ViewData["filtro"]"
+               placeholder="Buscar" />
+        <input type="submit" value="Buscar" class="btn btn-success" />
+    </form>
+</div>
+<div class="table-responsive">
+    <table class="table table-bordered table-hover">
+        <thead class="table-primary">
+            <tr>
+                
+                <th>producto id</th>
+                <th>cantidad</th>
+                <th>precio unitario</th>
+                <th>total detalle</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    
+                    <td>@item.VentaNavigation.NombreCliente</td>
+                    <td>@item.Cantidad</td>
+                    <td>@item.PrecioUnitario</td>
+                    <td>@item.TotalDetalle</td>
+                    <td nowrap>
+                        <a asp-action="Edit" asp-route-id="@item.DetalleVentaId"  class="btn btn-warning">Editar</a>
+
+                        <button class="btn btn-danger" id="@item.DetalleVentaId"
+                                data-nom="@item.VentaId"  onclick="eliminar(this)">
+                            Eliminar
+                        </button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    @{
+        var prev = !Model.HasPreviousPage ? "disabled" : "";
+        var next = !Model.HasNextPage ? "disabled" : "";
+        var total = Model.TotalPages;
+    }
+    <nav aria-label="Page navigation example">
+        <ul class="pagination">
+            <li class="page-item @prev">
+                <a class="page-link" asp-action="Index"
+                   asp-route-numPag="@(Model.PageIndex-1)"
+                   asp-route-filtro="@ViewData["filtro"]">Anterior</a>
+            </li>
+            @for (int i = 0; i < total; i++)
+            {
+                var activo = "";
+                if ((i + 1) == Model.PageIndex)
+                    activo = "active";
+                <li class="page-item @activo">
+                    <a class="page-link" asp-action="Index" asp-route-filtro="@ViewData["filtro"]"
+                       asp-route-numPag="@(i + 1)">
+                        @(i + 1)
+                    </a>
+                </li>
+            }
+            <li class="page-item @next">
+                <a class="page-link" asp-action="Index" asp-route-filtro="@ViewData["filtro"]"
+                   asp-route-numPag="@(Model.PageIndex+1)">Siguiente</a>
+            </li>
+        </ul>
+    </nav>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+<script>
+    function eliminar(btn) {
+        const id = btn.id
+
+        const nom = btn.getAttribute('data-nom')
+        Swal.fire({
+            title: '¿Estas seguro de eliminar la Venta ' + nom + ' ?',
+            text: "No podrás volver atrás",
+            icon: 'warning',
+            showCancelButton: true,
+            confirmButtonColor: '#d33',
+            cancelButtonColor: '#3085d6',
+            cancelButtonText: 'No',
+            confirmButtonText: 'Eliminar'
+        }).then((result) => {
+            if (result.isConfirmed) {
+
+                fetch('@Url.Action("Delete","Detalle")/' + id)
+                    .then(response => response.json())
+                    .then(data => {
+                        if (data == 'ok') {
+                            Swal.fire(
+                                'Eliminado',
+                                'La categoría ha sido eliminada',
+                                'success'
+                            ).then((result) => {
+                                location.reload();
+                            })
+                        }
+                        else {
+                            Swal.fire(
+                                'Cancelado',
+                                data,
+                                'error'
+                            )
+                        }
+                    })
+
+
+            }
+        })
+    }
+</script>

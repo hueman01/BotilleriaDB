@@ -1,0 +1,23 @@
+﻿@model BotilleriaDB.Models.Categoria
+@{
+    ViewData["Title"] = "Crear Categoría";
+}
+<h1 class="text-center">Crear Categoría</h1>
+<div>
+    @*asp-action permite acceder a un método del controlador*@
+    <form asp-action="Create">
+      
+        <div>
+            <label class="form-label">Categoría</label>
+            @*asp-for es un helper que permite asignar el mismo nombre y id de la clase
+            a los input*@
+            <input type="text" class="form-control" asp-for="NombreCategoria"/>
+            @*validation-for permite validar algunos parametros*@
+            <span asp-validation-for="NombreCategoria" class="badge bg-danger"></span>
+        </div>
+        <div class="text-end mt-3">
+            <input type="reset" class="btn btn-light" value="Limpiar" />
+            <input type="submit" class="btn btn-danger" value="Guardar" />
+        </div>
+    </form>
+</div>

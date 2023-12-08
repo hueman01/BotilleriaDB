@@ -1,0 +1,61 @@
+﻿@model BotilleriaDB.Models.Producto
+
+@{
+    ViewData["Title"] = "Crear Producto";
+}
+<h1 class="text-center">Crear Producto</h1>
+
+<div>
+    <form asp-action="Create" enctype="multipart/form-data">
+        
+        <div>
+            <label class="form-label">Nombre Producto</label>
+
+            <input class="form-control" asp-for="NombreProducto" />
+            <span class="badge bg-danger" asp-validation-for="NombreProducto"></span>
+        </div>
+        <div>
+            <label>Categoría</label>
+           
+            <select class="form-select" asp-for="CategoriaId" asp-items="ViewBag.CategoriaId">
+                <option selected disabled>Seleccione Categoría</option>
+            </select>
+            <span class="badge bg-danger" asp-validation-for="CategoriaId"></span>
+        </div> 
+        <div>
+            <label>
+
+            </label>
+        </div>
+        <div>
+            <label class="form-label">Nombre Proveedor</label>
+
+            <input class="form-control" asp-for="NombreProveedor" />
+            <span class="badge bg-danger" asp-validation-for="NombreProveedor"></span>
+        </div>        
+        <div>
+            <label class="form-label">Precio</label>
+
+            <input class="form-control" asp-for="Precio" />
+            <span class="badge bg-danger" asp-validation-for="Precio"></span>
+        </div>
+        <div>
+            <label class="form-label">Stock</label>
+
+            <input class="form-control" asp-for="Stock" />
+            <span class="badge bg-danger" asp-validation-for="Stock"></span>
+        </div>
+        <div>
+            <label>Foto</label>
+            <input type="file" class="form-control" asp-for="Imagen" accept="image/jpg,image/jpeg,image/png" />
+            
+        </div>
+        <div class="text-end mt-3">
+            <input type="reset" class="btn btn-light" value="Limpiar" />
+            <input type="submit" class="btn btn-danger" value="Guardar" />
+        </div>
+    </form>
+
+
+
+</div>
